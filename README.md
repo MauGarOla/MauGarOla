@@ -22,7 +22,7 @@ Let's connect and share our passions! You can find me on:
 
 - 🐦 [Twitter](https://twitter.com/mau_gar_ola)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mauriciogolagaray/)
-- 🌐 [Personal Website](comming soon)
+- 🌐 [Personal Website](https://maugarolaportfolio.netlify.app)
 - ✉️ [Email](mailto:mau.gar.ola@hotmail.com)
 
 ### Fun Facts
