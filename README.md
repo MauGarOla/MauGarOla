@@ -27,7 +27,7 @@ Let's connect and share our passions! You can find me on:
 
 ### Fun Facts
 
-- 🌟 I'm on a quest to conquer every programming language known to humanity.
+- 🌟 I'm on a quest to learn as much as posible in the time I spend alive.
 - 🎶 Music fuels my coding sessions and adds rhythm to my life.
 - 🎨 I dabble in digital art and design when I need a creative outlet.
 - 🌷 I'm nurturing a secret garden of side projects to bloom into full-fledged applications.
